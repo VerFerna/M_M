@@ -18,6 +18,3 @@ Este es un proyecto de ecommerce básico que se utiliza para el curso de React e
 2. Abre una terminal en el directorio del proyecto. 
 3. Ejecuta el comando npm install para descargar los módulos y dependencias. 
 4. Ejecuta el comando npm run dev para visualizar el proyecto. 
-
-## Licecia
-Este proyecto esta licenciado bajo la Licencia MIT. 
