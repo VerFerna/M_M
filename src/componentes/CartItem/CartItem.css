@@ -1,0 +1,30 @@
+
+.cartItem {
+  display: flex;
+  flex-direction: column;
+}
+
+.cartItem p {
+  margin: 0;
+}
+
+.cartItemProperties {
+  display: flex;
+  flex-direction: row;
+}
+
+.cartItemProperties p {
+  margin-right: 10px;
+}
+
+.cartItem button {
+  background-color: black;
+  color: white; 
+  border: none; 
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.cartItem button:hover {
+  background-color: goldenrod; 
+}

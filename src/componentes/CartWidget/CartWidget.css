@@ -1,0 +1,12 @@
+.carrito {
+    width: 100px;
+}
+
+  .numeroCarrito {
+    position: absolute;
+    background-color: goldenrod;
+    color: black; 
+    border-radius: 50%;
+    padding: 5px 8px;
+    font-size: 12px;
+  }

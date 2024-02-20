@@ -1,0 +1,17 @@
+.contenedorProductos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-button,
+.cart-button {
+  display: inline-block;
+  width: 150px; 
+  margin-right: 10px;
+}
+
+.product-button,
+.cart-button {
+  display: flex;
+  align-items: center;
+}

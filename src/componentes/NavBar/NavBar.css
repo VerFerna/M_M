@@ -1,0 +1,47 @@
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    z-index: 1000;
+}
+
+body {
+    padding-top: 60px;
+}
+
+li {
+    margin: 16px;
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 10px;
+}
+
+.navbar-link {
+    text-decoration: none;
+    color: goldenrod;
+    padding: 10px;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-link:hover {
+    color: goldenrod;
+  }
+  
+  
